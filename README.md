@@ -2,7 +2,7 @@
 
 ***
 ## 목차
-> 1. [mini project 주제](#1.-mini-project-주제)   
+> 1. [mini project 주제1](#1.-mini-project-주제)   
 > 2. [mini project에 대한 소개](#2.-mini-project에-대한-소개)   
 > 3. [image(pixabay 등 무료 이미지 활용)](#3.-image(pixabay-등-무료-이미지-활용))   
 > 4. [mini project가 가지고 있는 대략적인 기능 설명](#4.-mini-project가-가지고-있는-대략적인-기능-설명)   
